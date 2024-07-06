@@ -1,0 +1,45 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MDA
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Aneet Dharmavaram
+    family-names: Narendranath
+    email: dnaneet@mtu.edu
+  - given-names: Zachary
+    family-names: Thelander
+    email: ztheland@mtu.edu
+repository-code: 'https://github.com/Frizthec/MDA'
+keywords:
+  - Discourse
+  - Textual Analysis
+license: Apache-2.0
+commit: '0.0'
+version: '0.0'
+date-released: '2024-07-06'
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Narendranath"
+    given-names: "Aneet Dharmavaram"
+  - family-names: "Hargrove-Leak."
+    given-names: "Sirena C."
+  - family-names: "Thelander"
+    given-names: "Zachary"
+  publisher:
+    name: "IEEE"
+  date-published: "2024-07-16"
+  year: 2024
+  month: 7
+  title: "The Impact of an Entrepreneurially Minded Learning Activity on the Metadiscourse of Students' Reflections"
+  languages: ["eng"]
+  conference:
+    name: "IEEE ProComm2024"
+    city: Pittsburgh
+    country: US
+    location: "Wyndham Pittsburgh University Center"
