@@ -37,7 +37,7 @@ Attitude markers show ones opinion or attitude in discourse.
 Examples include: "Admittedly", "Dissappointed", "Disagree"
 ### Emphatics
 Emphatics are used to demonstrate ones opinion or perspective on a topic, and often are used towards the end of a thought.
-Examples include: 
+Examples include: "Actually", "Always", "Must"
 ### Person Markers
 Person markers are used to identify the main person(s) the current thought is regarding.
 Examples include: "I", "Me", "We", "They"
