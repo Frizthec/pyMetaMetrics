@@ -3,6 +3,8 @@
 Hello!
 The purpose of the MetaDiscourse Analysis (MDA) library is to develop and provide access to tools for local dictionary Meta Discourse Analysis of text. This library focues on studying Discourse marker usage and distribution. 
 
+## Why is this package relevant and unique?
+
 ## Discourse Markers
 Discourse markers are words used to link, describe, and organize ideas in written and verabal discourse. In broad terms, they are organized into ten categories: Code Gloss, Endorphics, Evidentials, Framemarkers, Transition, Attitude markers, Emphatics, Person Markers, Engagement, and Hedges. While there are words that are most commonly used in a specific category, they may be used in multiple categories, or their specific usage may be best determined based on context. 
 
