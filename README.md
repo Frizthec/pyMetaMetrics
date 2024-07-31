@@ -1,9 +1,11 @@
 # MDA
 
-Hello!
-The purpose of the MetaDiscourse Analysis (MDA) library is to develop and provide access to tools for local dictionary Meta Discourse Analysis of text. This library focues on studying Discourse marker usage and distribution. 
+Hello! The purpose of the MetaDiscourse Analysis (MDA) library is to develop and provide access to tools for local dictionary Meta Discourse Analysis of text. This library focues on studying Discourse marker usage and distribution in a wide variety of discourse genre, not limited to (1) In-classroom discourse such as lectures, student written reflections, verbal presentations, (2) Entrepreneurial discourse such as pitches, (3) Political discourse such as presidential debates and op-eds.
 
 ## Why is this package relevant and unique?
+
+Metadiscourse is embedded in everyday communication actions.  Based on Hyland's taxonomy metadiscourse are those unary or compound words and phrases that allow a person to take an authorial stance.  In other words, metadiscourse is not _what_ one says, but **how** one says it.
+
 
 ## Metadiscourse Markers
 Discourse markers are words used to link, describe, and organize ideas in written and verabal discourse. In broad terms, they are organized into ten categories: Code Gloss, Endorphics, Evidentials, Framemarkers, Transition, Attitude markers, Emphatics, Person Markers, Engagement, and Hedges. While there are words that are most commonly used in a specific category, they may be used in multiple categories, or their specific usage may be best determined based on context. 
