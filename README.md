@@ -6,6 +6,7 @@ Hello! The purpose of the MetaDiscourse Analysis (MDA) library is to develop and
 
 Metadiscourse is embedded in everyday communication actions.  Based on Hyland's taxonomy metadiscourse are those unary or compound words and phrases that allow a person to take an authorial stance.  In other words, metadiscourse is not _what_ one says, but **how** one says it.
 
+There are no open source python packages for metadiscourse analysis.  Our package not only provides a dictionary for this analysis, but also provides a quantitative analysis template through the ecosystem of other open source packages.  This package will further be augmented through LLM-driven rhetorical move identification.
 
 ## Metadiscourse Markers
 Discourse markers are words used to link, describe, and organize ideas in written and verabal discourse. In broad terms, they are organized into ten categories: Code Gloss, Endorphics, Evidentials, Framemarkers, Transition, Attitude markers, Emphatics, Person Markers, Engagement, and Hedges. While there are words that are most commonly used in a specific category, they may be used in multiple categories, or their specific usage may be best determined based on context. 
