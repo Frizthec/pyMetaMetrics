@@ -14,7 +14,7 @@ Discourse markers are words used to link, describe, and organize ideas in writte
 ### Code Gloss
 These markers are used to adjust the meaning of a phrase or idea. 
 Examples include: i.e., (for) instance, defined (as)
-### Endorphics
+### Endophorics
 These markers are used to point to additional information or evidence, after it has been stated that evidence exists. 
 Examples include: "Chapter", "Figure", "Table"
 ### Evidentials
