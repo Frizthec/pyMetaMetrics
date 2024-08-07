@@ -53,3 +53,34 @@ Examples include: "Reader", "Assume", "Ensure"
 Hedges are markers used to soften a statement or show doubt or lack of certainty. 
 Examples include: "Appears", "May", "Indicates"
 
+
+## MetaDiscourseAnalysis Class
+
+This is  the default class for the MDA library. The class allows users to import text and run analysis on it, to check the relative percentage of dicourse markers.
+When a class object is instantiated a homebrewed dictionary of discourse markers is initialized for each marker type. These are used to identify markers in the text and categorize them. Future editions may include ability to adjust the dictionary content, as well as identify unique markers used in the text. 
+
+### Class Functions
+Here is a short overview of the current functions. If you have suggestions on improvements or additional program features, please feel free to let us know and become a contributor!
+
+#### Authorial_stance(Text) 
+Requires text input. This processes the text, counts discourse markers in each category,
+
+**Returns:** Text length, total number of Interactional markers and total number of interactive markers.
+
+#### Log(Text)
+Returns a printed output of the text stripped of white space. Used during preprocessing. 
+## Package Dependencies
+**Numpy**  - This assists in the mathematical analysis of the processed text.
+**Pandas** - This assists in processing, storing, and manipulating the text
+**String** - Builtin python module used for string manipulation
+**Gensim** - Used for text processing.
+**tqdm**   - Utilized to show progress bar during computation. 
+**os**     - Builtin package used to import files. 
+**plotly** - The "Express" extension is utilized for fast visulization of the function results. 
+
+#### Upcoming Features
+In the next package iteration we are planning to improve the data visulization ability through additional default graphs and a dedicated graphing function. Additional investigative functions to explore change in marker usage over time, or as the moves from beginning to end will be added as well. 
+
+## How to Get Involved
+
+If you find this library useful and would like to add your own ideas to it, we would love to work with you! To get involved, Read over the contributor code of conduct and contact dnaneet@mtu.edu to join the mailing list and get started.
