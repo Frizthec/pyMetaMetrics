@@ -8,6 +8,13 @@ Metadiscourse is embedded in everyday communication actions.  Based on Hyland's 
 
 There are no open source python packages for metadiscourse analysis.  Our package not only provides a dictionary for this analysis, but also provides a quantitative analysis template through the ecosystem of other open source packages.  This package will further be augmented through LLM-driven rhetorical move identification.
 
+## Mission and Vision of MDA
+### Our Mission
+Our mission is to further research into text using Meta Discourse markers as a base to quantify writer characteristics, by developing and providing practical and easy to implement tools for text processing and statistical analysis. Our focus is on exploring methods of quantifying student understanding and how differing ways of teaching can affect the student's learning. This library is meant to be a more specialized tool to assist in exploratory research into metadiscourse marker use whatever the topic or subject.
+
+### Our Vision for the Future
+Our vision for the future is to reduce any post processing of the results, and allow users to easily explore and further quantify their results without the need of further programs or libraries. We plan to integrate result plotting into the library for easy and quick visualization and comparison between marker types. We are developing functions to allow users to quantify marker use and change over time, and plan on developing functions to identify markers that are unique to the writer/speaker of the text, to allow for more indepth exploration of their works. 
+
 ## Metadiscourse Markers
 Discourse markers are words used to link, describe, and organize ideas in written and verabal discourse. In broad terms, they are organized into ten categories: Code Gloss, Endorphics, Evidentials, Framemarkers, Transition, Attitude markers, Emphatics, Person Markers, Engagement, and Hedges. While there are words that are most commonly used in a specific category, they may be used in multiple categories, or their specific usage may be best determined based on context. 
 
@@ -69,6 +76,7 @@ Requires text input. This processes the text, counts discourse markers in each c
 
 #### Log(Text)
 Returns a printed output of the text stripped of white space. Used during preprocessing. 
+
 ## Package Dependencies
 **Numpy**  - This assists in the mathematical analysis of the processed text.
 **Pandas** - This assists in processing, storing, and manipulating the text
